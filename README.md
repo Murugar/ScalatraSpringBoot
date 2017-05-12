@@ -1,0 +1,2 @@
+# ScalatraSpringBoot
+Scalatra Spring Boot
